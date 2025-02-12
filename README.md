@@ -15,3 +15,7 @@ It is possible that the application might not start once you try opening it. If 
 # Original Creator
 The original creator of this repository was github user slehmann1. Please visit the original repository at this link for additional details: 
 https://github.com/slehmann1/Adhesion-Tester
+
+# Additional Note
+Use this link to get the correct version of windows.winMD, download the one for windows 8.1:
+https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/
